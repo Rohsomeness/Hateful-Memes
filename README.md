@@ -9,7 +9,7 @@ Our Results:
 Compared to baselines from original paper:
 ![Baselines from original paper](https://github.com/Rohsomeness/Hateful-Memes/blob/main/Baseline.png?raw=true)
 
-
-Naive CLIP Model + CLIP Embedding tool: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/NaiveCLIPandEmbedder.ipynb)
-
-Neural Network CLIP Model: Link to Naive CLIP Model + CLIP Embedding tool: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/CLIPNeuralNetwork.ipynb)
+Model                                            |                                      Colab Link
+| ---------------------------------------------- | -------------------------------------------- |
+Naive CLIP Model + CLIP Embedding tool: | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/NaiveCLIPandEmbedder.ipynb)
+Neural Network CLIP Model: Link to Naive CLIP Model + CLIP Embedding tool: | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/CLIPNeuralNetwork.ipynb)
