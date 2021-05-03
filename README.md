@@ -3,4 +3,6 @@ Collection of deep learning techniques used to evaluate whether a meme is hatefu
 
 Competition details here: https://ai.facebook.com/tools/hatefulmemes
 
-Link to Naive CLIP Model + CLIP Embedding tool: <a href=\"https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/NaiveCLIPandEmbedder.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+Naive CLIP Model + CLIP Embedding tool: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/NaiveCLIPandEmbedder.ipynb)
+
+Neural Network CLIP Model: Link to Naive CLIP Model + CLIP Embedding tool: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohsomeness/Hateful-Memes/blob/main/models/multimodal/CLIPNeuralNetwork.ipynb)
